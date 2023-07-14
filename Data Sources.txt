@@ -1,0 +1,16 @@
+This file is sorted by the date added to this repository. Use ctrl+f to find the source.
+
+---------------------------------------------------------------------------------------------
+
+Template:
+file_name.extension
+By: Creator
+From: Website Source Name
+URL: source URL
+
+---------------------------------------------------------------------------------------------
+
+water_potability.csv
+By: ADITYA KADIWAL
+From: Kaggle
+URL: https://www.kaggle.com/datasets/adityakadiwal/water-potability
